@@ -7,49 +7,33 @@
 				<div class="fullwidth-block">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-4">
-								<h2 class="section-title">Application features</h2>
+							<div class="col-md-6">
+								<h2 class="section-title">Project Information</h2>
 								<ul class="arrow-feature">
 									<li>
-										<h3>Natus error sit voluptatem accusantium</h3>
-										<p>Doloremque laudantium totam rem aperiam Inventore veritatis et quasi architecto beatae vitae.</p>
+										<h3>Vue JS 3 Framework</h3>
+										<p>Vue JS 3 is used for the Frontend technology of the project.</p>
 									</li>
 									<li>
-										<h3>Natus error sit voluptatem accusantium</h3>
-										<p>Doloremque laudantium totam rem aperiam Inventore veritatis et quasi architecto beatae vitae.</p>
+										<h3>HTML CSS BOOTSTRAP Design</h3>
+										<p>Custom CSS and Bootstrap are used along with the HTML to make it more attractive.</p>
 									</li>
 									<li>
-										<h3>Natus error sit voluptatem accusantium</h3>
-										<p>Doloremque laudantium totam rem aperiam Inventore veritatis et quasi architecto beatae vitae.</p>
+										<h3>Open Weather Map API</h3>
+										<p>Open weather map API is used for getting the weather data.</p>
 									</li>
 								</ul>
 							</div>
-							<div class="col-md-4">
-								<h2 class="section-title">Weather analyssis</h2>
+							<div class="col-md-6">
+								<h2 class="section-title">Weather Information</h2>
 								<ul class="arrow-list">
-									<li><a href="#">Accusantium doloremque laudantium rem aperiam</a></li>
-									<li><a href="#">Eaque ipsa quae ab illo inventore veritatis quasi</a></li>
-									<li><a href="#">Architecto beatae vitae dicta sunt explicabo</a></li>
-									<li><a href="#">Nemo enim ipsam voluptatem quia voluptas</a></li>
-									<li><a href="#">Aspernatur aut odit aut fugit, sed quia consequuntur</a></li>
-									<li><a href="#">Magni dolores eos qui ratione voluptatem sequi</a></li>
-									<li><a href="#">Neque porro quisquam est qui dolorem ipsum quia</a></li>
+									<li><a >Daily Weather forecast Show.</a></li>
+									<li><a >Forecast view of 7 days</a></li>
+									<li><a >Temparature, Humidity, Country Name, Day shown.</a></li>
+									<li><a >Weather of Bangladesh & Japan is shown.</a></li>
 								</ul>
 							</div>
-							<div class="col-md-4">
-								<h2 class="section-title">Awesome Photos</h2>
-								<div class="photo-grid">
-									<a href="#"><img src="../assets/images/thumb-1.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-2.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-3.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-4.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-5.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-6.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-7.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-8.jpg" alt="#"></a>
-									<a href="#"><img src="../assets/images/thumb-9.jpg" alt="#"></a>
-								</div>
-							</div>
+				
 						</div>
 					</div>
 				</div>
