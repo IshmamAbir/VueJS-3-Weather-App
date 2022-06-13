@@ -12,7 +12,7 @@
 			</div>
 		</div>
 		<div>
-			<WeatherCard cityInput="Tokyo" />
+			<WeatherCard cityInput="Miyazaki" />
 		</div>
 		<br><br><br><br><br><br><br><br><br><br>
 		<div>

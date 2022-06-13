@@ -17,7 +17,7 @@
                             </div>
                         </div>
                         <span>Weather : {{ weather }}</span>
-                        <span>Humidity: {{ humidity }}</span>
+                        <span>Humidity: {{ humidity }}%</span>
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@
                             </div>
                             <div class="degree">{{ list.main.temp }}</div>
                             <p>{{ list.weather[0].description }}</p>
-                            <p>Humidity: {{ list.main.humidity }}</p>
+                            <p>Humidity: {{ list.main.humidity }}%</p>
                         </div>
 
                     </div>
