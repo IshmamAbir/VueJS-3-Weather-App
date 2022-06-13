@@ -11,13 +11,10 @@
 					</form> -->
 			</div>
 		</div>
-		<div>
-			<WeatherCard cityInput="Miyazaki" />
-		</div>
-		<br><br><br><br><br><br><br><br><br><br>
-		<div>
-			<WeatherCard city-input="Dhaka" />
-		</div>
+		
+		<router-view/>
+
+		
 
 		<DetailContent />
 		<Footer />
@@ -26,13 +23,11 @@
 
 <script>
 import Navbar from "./components/Navbar.vue";
-import WeatherCard from "./components/WeatherCard.vue";
 import Footer from "./components/Footer.vue";
 import DetailContent from "./components/DetailContent.vue";
 export default {
 	components: {
 		Navbar,
-		WeatherCard,
 		Footer,
 		DetailContent
 	}
