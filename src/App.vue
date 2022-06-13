@@ -2,15 +2,7 @@
 	<div class="site-content">
 		<Navbar />
 
-		<div class="hero"
-			v-bind:style="{ 'background-image': 'url(' + require('../src/assets/images/banner.png') + ')' }">
-			<div class="container">
-				<!-- <form action="#" class="find-location">
-						<input type="text" placeholder="Find your location...">
-						<input type="submit" value="Find">
-					</form> -->
-			</div>
-		</div>
+		
 		
 		<router-view/>
 
