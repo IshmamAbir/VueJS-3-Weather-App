@@ -28,9 +28,9 @@
 						<h2 class="section-title">Weather Information</h2>
 						<ul class="arrow-list">
 							<li><a>Daily Weather forecast Show.</a></li>
-							<li><a>Forecast view of 7 days</a></li>
+							<li><a>Hourly Forecast view of a day.</a></li>
 							<li><a>Temparature, Humidity, Country Name, Day shown.</a></li>
-							<li><a>Weather of Bangladesh & Japan is shown.</a></li>
+							<li><a>Weather of Dhaka, Bangladesh & Miyazaki, Japan is shown.</a></li>
 						</ul>
 					</div>
 

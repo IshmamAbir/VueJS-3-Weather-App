@@ -39,6 +39,6 @@ export default {
 menu li.router-link-active,
 .menu .menu-item .router-link-exact-active {
 	border-color: #009ad8;
-  color: #009ad8;
+	color: #009ad8;
 }
 </style>

@@ -2,13 +2,10 @@
 	<div class="site-content">
 		<Navbar />
 
-		
-		
-		<router-view/>
-
-		
+		<router-view />
 
 		<DetailContent />
+		
 		<Footer />
 	</div>
 </template>

@@ -10,10 +10,10 @@
 
 
     <div class="fullwidth-block">
-      <div class="container" >
+      <div class="container">
         <div class="row">
           <div class="content col-md-2"></div>
-          <div class="content col-md-8" >
+          <div class="content col-md-8">
             <div class="post single">
               <h2 class="entry-title">About The Developer</h2>
               <div class="featured-image"><img src="../assets/images/ishmam.png" alt="Ishmam Abir"></div>
@@ -25,13 +25,14 @@
                 <p>Web Developer, Software Engineer, Video Creator & Editor</p>
 
                 <blockquote>
-                  <p>I am at a time a hard working and super lazy. I can sleep for 17 hours straight & also can code from 10:00 pm to 8:00 am continuously. My potential for you depends on how you want to get it.</p>
+                  <p>I am at a time a hard working and super lazy. I can sleep for 17 hours straight & also can code
+                    from 10:00 pm to 8:00 am continuously. My potential for you depends on how you want to get it.</p>
                 </blockquote>
               </div>
 
             </div>
           </div>
-          
+
         </div>
       </div>
     </div>
