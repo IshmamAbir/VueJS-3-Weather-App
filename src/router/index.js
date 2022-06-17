@@ -1,3 +1,4 @@
+import SearchView from '@/views/SearchView.vue'
 import { createRouter, createWebHashHistory } from 'vue-router'
 import AboutView from '../views/AboutView.vue'
 import HomeView from '../views/HomeView.vue'
@@ -12,6 +13,11 @@ const routes = [
     path: '/about',
     name: 'about',
     component: AboutView
+  },
+  {
+    path: '/search',
+    name: 'search',
+    component: SearchView
   },
   // {
   //   path: '/about',

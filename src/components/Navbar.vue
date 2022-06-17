@@ -17,6 +17,9 @@
 						<router-link to="/">Home</router-link>
 					</li>
 					<li class="menu-item">
+						<router-link to="/search">Search</router-link>
+					</li>
+					<li class="menu-item">
 						<router-link to="/about">About</router-link>
 					</li>
 				</ul> <!-- .menu -->
